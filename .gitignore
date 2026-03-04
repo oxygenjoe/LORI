@@ -1,0 +1,22 @@
+# Data files (too large for git)
+*.xml.bz2
+*.7z
+*.7z.aria2
+wiki-extracted/
+wiki-chunked/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+wiki-env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

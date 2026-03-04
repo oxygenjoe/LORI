@@ -1,0 +1,5 @@
+https://archive.org/download/stackexchange/superuser.com.7z
+https://archive.org/download/stackexchange/serverfault.com.7z
+https://archive.org/download/stackexchange/unix.stackexchange.com.7z
+https://archive.org/download/stackexchange/askubuntu.com.7z
+https://archive.org/download/stackexchange/electronics.stackexchange.com.7z
