@@ -1,4 +1,4 @@
-# CUMRAG: Comparative Utilization Metrics for Retrieval-Augmented Generation
+# CompRAG: Comparative Retrieval-Augmented Generation Evaluation
 
 ## Project Spec v1.0
 
@@ -63,7 +63,7 @@ Download and place in `datasets/` directory.
 **Phase 2 (future):**
 - MS MARCO for retrieval quality isolation
 - RAGAS synthetic generation for domain-specific eval sets
-- Custom clinical lab informatics corpus (CUMRAG-Clinical)
+- Custom clinical lab informatics corpus (CompRAG-Clinical)
 
 ---
 
